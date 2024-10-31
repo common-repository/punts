@@ -1,0 +1,5 @@
+Punts 0.1
+---------
+This plugin lets you add a score to a post. To use it simply add a custom field to the post with name='score' and value a number between 0 and 5. The puntuation will appear at the top of the post.
+
+Thanks to the Psi team (http://psi-im.org) for letting me use their star icons.

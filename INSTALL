@@ -1,0 +1,6 @@
+Installation instructions:
+--------------------------
+* Copy the punts directory to wp-content/plugins/punts
+* Activate the plugin in the admin interface.
+
+That's all!
